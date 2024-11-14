@@ -49,7 +49,7 @@ st.markdown("""
     }
     </style>
     <div class="container">
-        <p class="neon-title">🖼️ Image Compression with Red Neon Effects 🎇</p>
+        <p class="neon-title">🖼️IMAGE COMPRESSION🎇</p>
     </div>
 """, unsafe_allow_html=True)
 
